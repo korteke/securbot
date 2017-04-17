@@ -1,4 +1,4 @@
-# securbot
+# SecurBot
 (re)Tweets about security [Securbot @ Twitter](https://twitter.com/securbot)
 
 ## Sources
